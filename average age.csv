@@ -1,0 +1,486 @@
+Sport,Average Age
+"Art Competitions, Swimming",43.0
+Art Competitions,42.0
+"Art Competitions, Volleyball",42.0
+"Art Competitions, Rowing",39.0
+"Art Competitions, Fencing",39.0
+"Bobsleigh, Rowing",39.0
+"Canoeing, Curling, Taekwondo",38.0
+"Athletics, Football, Judo, Wrestling",38.0
+"Judo, Shooting",37.0
+"Basketball, Equestrianism",36.5
+"Sailing, Trampolining",36.0
+"Art Competitions, Table Tennis",34.0
+"Modern Pentathlon, Polo",33.0
+"Art Competitions, Handball",33.0
+"Gymnastics, Softball, Speed Skating",33.0
+"Snowboarding, Triathlon",33.0
+"Sailing, Shooting",32.5
+"Cycling, Skeleton",32.0
+"Shooting, Wrestling",32.0
+"Athletics, Diving, Swimming",32.0
+"Biathlon, Nordic Combined, Ski Jumping",32.0
+Equestrianism,31.35
+"Canoeing, Sailing",31.0
+"Cycling, Sailing",31.0
+"Baseball, Fencing",31.0
+"Cycling, Sailing, Short Track Speed Skating",31.0
+"Football, Handball, Shooting, Swimming",31.0
+"Athletics, Boxing, Football, Hockey",31.0
+"Archery, Fencing, Shooting, Wrestling",31.0
+"Cross Country Skiing, Water Polo",31.0
+"Athletics, Ice Hockey",31.0
+"Biathlon, Shooting",30.67
+"Ice Hockey, Shooting",30.33
+Curling,30.1
+"Curling, Rowing",30.0
+"Judo, Table Tennis",30.0
+"Bobsleigh, Football",30.0
+"Bobsleigh, Cross Country Skiing",30.0
+"Art Competitions, Athletics, Weightlifting",30.0
+"Equestrianism, Volleyball",30.0
+Shooting,29.95
+Golf,29.64
+"Fencing, Shooting",29.5
+"Shooting, Weightlifting",29.33
+"Athletics, Badminton",29.0
+"Shooting, Swimming",29.0
+"Fencing, Gymnastics",29.0
+"Football, Hockey",29.0
+"Cycling, Shooting",28.5
+"Basketball, Shooting",28.0
+"Boxing, Weightlifting",28.0
+"Basketball, Boxing, Table Tennis",28.0
+"Boxing, Sailing",28.0
+"Beach Volleyball, Cycling",28.0
+Lacrosse,28.0
+"Badminton, Hockey",28.0
+"Bobsleigh, Ice Hockey",28.0
+"Bobsleigh, Gymnastics, Volleyball",28.0
+"Football, Handball",28.0
+"Art Competitions, Cross Country Skiing, Gymnastics",28.0
+Skeleton,27.94
+Beach Volleyball,27.84
+Sailing,27.54
+"Handball, Judo",27.5
+"Cycling, Handball",27.5
+"Hockey, Ice Hockey",27.5
+"Athletics, Rowing",27.2
+"Archery, Handball, Volleyball",27.0
+"Gymnastics, Weightlifting",27.0
+"Canoeing, Handball",27.0
+"Shooting, Speed Skating, Trampolining",27.0
+"Athletics, Taekwondo",27.0
+"Curling, Softball",27.0
+"Rowing, Weightlifting",27.0
+"Bobsleigh, Cycling",27.0
+"Shooting, Triathlon",27.0
+"Basketball, Modern Pentathlon, Rowing",27.0
+"Badminton, Rowing",27.0
+"Canoeing, Volleyball",27.0
+"Hockey, Judo",27.0
+"Fencing, Water Polo",27.0
+"Hockey, Modern Pentathlon",27.0
+"Fencing, Judo",27.0
+"Baseball, Weightlifting",27.0
+"Modern Pentathlon, Swimming, Triathlon",27.0
+"Triathlon, Water Polo",27.0
+"Rhythmic Gymnastics, Water Polo",27.0
+"Basketball, Handball",27.0
+"Rowing, Sailing",27.0
+Bobsleigh,26.87
+Triathlon,26.67
+"Canoeing, Shooting",26.5
+"Athletics, Boxing",26.38
+"Athletics, Judo",26.33
+"Equestrianism, Fencing",26.25
+Rugby Sevens,26.09
+"Biathlon, Rowing",26.0
+"Rowing, Water Polo",26.0
+"Biathlon, Sailing",26.0
+"Swimming, Table Tennis",26.0
+"Badminton, Softball",26.0
+"Alpine Skiing, Ski Jumping",26.0
+"Athletics, Biathlon",26.0
+"Athletics, Football, Wrestling",26.0
+"Athletics, Boxing, Equestrianism",26.0
+"Biathlon, Cross Country Skiing, Cycling",26.0
+"Short Track Speed Skating, Weightlifting",26.0
+"Canoeing, Water Polo",26.0
+"Equestrianism, Modern Pentathlon",26.0
+"Basketball, Boxing",26.0
+"Athletics, Equestrianism",26.0
+"Water Polo, Weightlifting",26.0
+"Basketball, Football",26.0
+"Shooting, Water Polo",26.0
+"Cross Country Skiing, Football",26.0
+"Canoeing, Ice Hockey",26.0
+"Gymnastics, Handball, Weightlifting",26.0
+"Bobsleigh, Cross Country Skiing, Modern Pentathlon, Nordic Combined",26.0
+"Hockey, Snowboarding",26.0
+"Canoeing, Handball, Rowing, Wrestling",26.0
+"Sailing, Wrestling",26.0
+"Athletics, Table Tennis",26.0
+"Athletics, Tug-Of-War",25.93
+"Athletics, Wrestling",25.86
+"Ice Hockey, Speed Skating",25.67
+"Judo, Swimming",25.67
+Baseball,25.59
+"Ice Hockey, Wrestling",25.5
+Softball,25.34
+"Boxing, Shooting",25.33
+"Athletics, Handball",25.33
+"Football, Wrestling",25.33
+Handball,25.26
+"Athletics, Fencing",25.2
+Archery,25.02
+"Cycling, Swimming",25.0
+"Fencing, Motorboating",25.0
+"Handball, Speed Skating",25.0
+"Gymnastics, Sailing",25.0
+"Fencing, Softball",25.0
+"Fencing, Football, Synchronized Swimming",25.0
+"Hockey, Shooting",25.0
+"Ice Hockey, Water Polo",25.0
+"Canoeing, Fencing, Modern Pentathlon",25.0
+"Basketball, Wrestling",25.0
+"Biathlon, Ice Hockey",25.0
+"Equestrianism, Handball",25.0
+"Basketball, Synchronized Swimming",25.0
+"Athletics, Rowing, Weightlifting, Wrestling",25.0
+"Alpine Skiing, Judo, Rowing",25.0
+"Athletics, Tug-Of-War, Wrestling",25.0
+"Athletics, Sailing, Swimming",25.0
+"Modern Pentathlon, Shooting",25.0
+"Speed Skating, Swimming",25.0
+"Alpine Skiing, Handball",25.0
+"Tug-Of-War, Weightlifting, Wrestling",25.0
+"Basketball, Bobsleigh",25.0
+"Snowboarding, Water Polo",25.0
+"Swimming, Weightlifting, Wrestling",25.0
+"Athletics, Shooting",25.0
+Modern Pentathlon,24.85
+"Athletics, Hockey",24.83
+"Ice Hockey, Rowing",24.8
+"Canoeing, Cycling",24.75
+Fencing,24.73
+"Baseball, Football",24.67
+"Athletics, Weightlifting",24.6
+"Boxing, Handball",24.5
+"Equestrianism, Weightlifting",24.5
+"Bobsleigh, Luge",24.5
+"Fencing, Handball",24.5
+"Football, Ice Hockey",24.5
+Wrestling,24.42
+Badminton,24.41
+"Bobsleigh, Hockey",24.4
+Ice Hockey,24.38
+"Athletics, Modern Pentathlon",24.33
+"Basketball, Canoeing",24.33
+"Hockey, Wrestling",24.33
+Basketball,24.32
+Rugby,24.31
+Hockey,24.28
+Biathlon,24.27
+Judo,24.19
+Volleyball,24.18
+Table Tennis,24.14
+Athletics,24.13
+"Athletics, Cycling",24.08
+"Fencing, Modern Pentathlon",24.04
+Weightlifting,24.02
+"Hockey, Short Track Speed Skating",24.0
+"Athletics, Cross Country Skiing, Equestrianism, Hockey, Weightlifting",24.0
+"Athletics, Hockey, Sailing, Swimming",24.0
+"Football, Rowing",24.0
+"Skeleton, Swimming",24.0
+"Cross Country Skiing, Fencing",24.0
+"Canoeing, Figure Skating",24.0
+"Athletics, Canoeing",24.0
+"Handball, Ski Jumping",24.0
+"Archery, Weightlifting",24.0
+"Handball, Shooting, Table Tennis",24.0
+"Athletics, Boxing, Hockey, Synchronized Swimming, Water Polo",24.0
+"Athletics, Basketball, Hockey",24.0
+"Handball, Ice Hockey",24.0
+"Cycling, Fencing, Volleyball, Water Polo",24.0
+"Football, Table Tennis",24.0
+"Football, Weightlifting",24.0
+"Tug-Of-War, Weightlifting",24.0
+"Art Competitions, Basketball",24.0
+"Cycling, Ski Jumping",24.0
+"Cycling, Ice Hockey",24.0
+"Gymnastics, Swimming, Volleyball",24.0
+"Gymnastics, Softball",24.0
+"Cycling, Golf",24.0
+"Athletics, Fencing, Water Polo",24.0
+"Ice Hockey, Volleyball",24.0
+"Basketball, Rowing, Speed Skating",24.0
+"Ice Hockey, Softball, Water Polo, Wrestling",24.0
+"Biathlon, Gymnastics",24.0
+"Athletics, Softball",24.0
+"Ice Hockey, Ski Jumping",24.0
+"Boxing, Figure Skating, Modern Pentathlon",24.0
+"Judo, Sailing",24.0
+"Rowing, Shooting, Water Polo",24.0
+"Bobsleigh, Luge, Skeleton",24.0
+"Rugby Sevens, Short Track Speed Skating",24.0
+"Beach Volleyball, Speed Skating, Volleyball",24.0
+"Bobsleigh, Weightlifting",24.0
+"Basketball, Short Track Speed Skating",24.0
+"Badminton, Shooting",24.0
+"Boxing, Volleyball",24.0
+"Boxing, Water Polo",24.0
+Water Polo,23.96
+Cross Country Skiing,23.94
+Rowing,23.88
+"Athletics, Bobsleigh",23.81
+Tennis,23.68
+"Boxing, Wrestling",23.67
+Cycling,23.67
+"Weightlifting, Wrestling",23.67
+Canoeing,23.66
+"Cycling, Water Polo",23.5
+"Canoeing, Diving",23.5
+"Athletics, Football",23.5
+"Athletics, Gymnastics, Weightlifting, Wrestling",23.5
+"Athletics, Sailing",23.5
+"Basketball, Gymnastics",23.5
+Trampolining,23.32
+Taekwondo,23.3
+"Cycling, Wrestling",23.25
+Snowboarding,23.21
+"Football, Volleyball",23.2
+Freestyle Skiing,23.19
+Football,23.12
+"Athletics, Rowing, Wrestling",23.0
+"Rhythmic Gymnastics, Rowing",23.0
+"Cycling, Weightlifting",23.0
+"Freestyle Skiing, Gymnastics",23.0
+"Diving, Judo, Volleyball",23.0
+"Badminton, Sailing",23.0
+"Football, Speed Skating, Table Tennis",23.0
+"Diving, Weightlifting",23.0
+"Volleyball, Water Polo",23.0
+"Football, Shooting",23.0
+"Basketball, Beach Volleyball, Speed Skating",23.0
+"Volleyball, Weightlifting",23.0
+"Basketball, Canoeing, Fencing",23.0
+"Fencing, Hockey, Shooting",23.0
+"Archery, Hockey",23.0
+"Bobsleigh, Fencing",23.0
+"Archery, Judo",23.0
+"Boxing, Cycling",23.0
+"Fencing, Wrestling",23.0
+"Athletics, Gymnastics, Tug-Of-War",23.0
+"Athletics, Freestyle Skiing",23.0
+"Canoeing, Synchronized Swimming",23.0
+"Basketball, Nordic Combined",23.0
+"Boxing, Hockey",23.0
+"Boxing, Gymnastics",23.0
+"Ice Hockey, Short Track Speed Skating, Softball",23.0
+"Boxing, Football",23.0
+"Cross Country Skiing, Ice Hockey",23.0
+"Alpine Skiing, Athletics",23.0
+"Athletics, Speed Skating",23.0
+"Alpine Skiing, Boxing, Gymnastics, Ice Hockey",23.0
+"Badminton, Basketball",23.0
+"Cycling, Gymnastics",23.0
+"Alpine Skiing, Freestyle Skiing",23.0
+"Cycling, Figure Skating, Football",23.0
+"Bobsleigh, Shooting",23.0
+"Football, Nordic Combined",23.0
+"Handball, Rowing",23.0
+"Cross Country Skiing, Nordic Combined",22.95
+"Biathlon, Cross Country Skiing",22.87
+"Rowing, Swimming",22.8
+Boxing,22.68
+"Hockey, Rowing",22.67
+"Alpine Skiing, Luge",22.5
+"Cross Country Skiing, Rowing",22.5
+"Fencing, Rowing",22.5
+"Canoeing, Swimming",22.5
+"Athletics, Water Polo",22.5
+"Athletics, Cross Country Skiing",22.5
+Luge,22.39
+"Athletics, Rugby",22.33
+Nordic Combined,22.26
+"Cycling, Rowing",22.25
+Speed Skating,22.25
+"Volleyball, Wrestling",22.0
+"Gymnastics, Rowing",22.0
+"Speed Skating, Wrestling",22.0
+"Water Polo, Wrestling",22.0
+"Ice Hockey, Nordic Combined",22.0
+"Hockey, Speed Skating",22.0
+"Rowing, Tennis",22.0
+"Cross Country Skiing, Nordic Combined, Ski Jumping",22.0
+"Boxing, Curling",22.0
+"Alpine Skiing, Short Track Speed Skating, Taekwondo",22.0
+"Cross Country Skiing, Judo",22.0
+"Archery, Canoeing, Handball",22.0
+"Canoeing, Hockey",22.0
+"Boxing, Diving",22.0
+"Athletics, Baseball, Fencing, Handball, Speed Skating",22.0
+"Biathlon, Swimming",22.0
+"Biathlon, Cross Country Skiing, Speed Skating",22.0
+"Basketball, Softball",22.0
+"Baseball, Judo, Shooting, Speed Skating, Table Tennis",22.0
+"Baseball, Judo",22.0
+"Badminton, Judo, Short Track Speed Skating",22.0
+"Badminton, Basketball, Rowing",22.0
+"Athletics, Short Track Speed Skating",22.0
+"Athletics, Rowing, Sailing",22.0
+"Athletics, Nordic Combined",22.0
+"Alpine Skiing, Athletics, Baseball",22.0
+"Art Competitions, Shooting",22.0
+"Cross Country Skiing, Weightlifting",22.0
+"Cross Country Skiing, Cycling",21.8
+Alpine Skiing,21.65
+"Athletics, Figure Skating",21.5
+Synchronized Swimming,21.5
+"Figure Skating, Rowing",21.5
+"Athletics, Volleyball",21.5
+"Badminton, Gymnastics",21.5
+"Shooting, Speed Skating",21.5
+"Rowing, Shooting",21.5
+"Cross Country Skiing, Modern Pentathlon",21.5
+"Baseball, Short Track Speed Skating",21.5
+"Alpine Skiing, Weightlifting",21.5
+"Athletics, Basketball",21.42
+"Cycling, Speed Skating",21.4
+Ski Jumping,21.38
+"Beach Volleyball, Volleyball",21.33
+"Canoeing, Rowing",21.33
+"Handball, Swimming",21.33
+Short Track Speed Skating,21.2
+"Boxing, Swimming",21.0
+"Rowing, Volleyball",21.0
+"Boxing, Speed Skating, Weightlifting",21.0
+"Hockey, Volleyball, Wrestling",21.0
+"Boxing, Rowing, Shooting, Ski Jumping",21.0
+"Hockey, Synchronized Swimming",21.0
+"Equestrianism, Water Polo",21.0
+"Art Competitions, Athletics",21.0
+"Baseball, Basketball",21.0
+"Athletics, Ski Jumping",21.0
+"Ice Hockey, Tennis",21.0
+"Football, Swimming",21.0
+"Archery, Table Tennis",21.0
+"Basketball, Gymnastics, Shooting, Swimming",21.0
+"Luge, Skeleton",21.0
+"Athletics, Swimming, Volleyball, Wrestling",21.0
+"Softball, Water Polo",21.0
+"Canoeing, Luge",21.0
+"Athletics, Hockey, Shooting",21.0
+"Alpine Skiing, Snowboarding",21.0
+"Cycling, Modern Pentathlon",21.0
+"Athletics, Fencing, Judo",21.0
+"Athletics, Fencing, Modern Pentathlon",21.0
+"Athletics, Figure Skating, Hockey",21.0
+"Tennis, Wrestling",21.0
+"Handball, Judo, Shooting",21.0
+"Shooting, Table Tennis",21.0
+"Handball, Shooting",21.0
+"Alpine Skiing, Ice Hockey",21.0
+"Athletics, Shooting, Volleyball",21.0
+"Cross Country Skiing, Nordic Combined, Ski Jumping, Weightlifting",21.0
+"Archery, Boxing",21.0
+"Handball, Wrestling",21.0
+"Sailing, Swimming, Weightlifting",21.0
+"Basketball, Judo",21.0
+"Canoeing, Weightlifting",21.0
+"Alpine Skiing, Sailing",21.0
+"Sailing, Swimming",20.8
+"Judo, Wrestling",20.71
+"Nordic Combined, Ski Jumping",20.67
+"Archery, Athletics",20.67
+"Short Track Speed Skating, Speed Skating",20.57
+Figure Skating,20.55
+"Swimming, Wrestling",20.5
+"Cycling, Synchronized Swimming",20.5
+"Athletics, Cross Country Skiing, Nordic Combined",20.5
+Diving,20.44
+"Swimming, Water Polo",20.14
+"Athletics, Swimming",20.12
+Gymnastics,20.11
+"Canoeing, Modern Pentathlon",20.0
+"Biathlon, Cycling",20.0
+"Canoeing, Diving, Tennis",20.0
+"Athletics, Tennis",20.0
+"Fencing, Swimming",20.0
+"Alpine Skiing, Volleyball",20.0
+"Short Track Speed Skating, Swimming",20.0
+"Fencing, Sailing",20.0
+"Athletics, Fencing, Shooting",20.0
+"Cycling, Luge",20.0
+"Rowing, Sailing, Ski Jumping",20.0
+"Alpine Skiing, Cycling, Freestyle Skiing",20.0
+"Baseball, Fencing, Ice Hockey, Sailing",20.0
+"Fencing, Ice Hockey",20.0
+"Skeleton, Wrestling",20.0
+"Cycling, Short Track Speed Skating, Volleyball",20.0
+"Athletics, Diving, Swimming, Table Tennis",20.0
+"Archery, Hockey, Volleyball",20.0
+"Gymnastics, Judo",20.0
+"Alpine Skiing, Equestrianism",20.0
+"Athletics, Gymnastics",19.79
+"Modern Pentathlon, Swimming",19.75
+"Boxing, Rowing",19.67
+"Diving, Swimming",19.67
+"Swimming, Synchronized Swimming",19.5
+"Cross Country Skiing, Swimming",19.5
+"Alpine Skiing, Boxing",19.5
+"Boxing, Judo",19.5
+Swimming,19.37
+"Gymnastics, Handball",19.33
+"Sailing, Speed Skating",19.0
+"Biathlon, Ski Jumping",19.0
+"Ice Hockey, Softball",19.0
+"Boxing, Freestyle Skiing, Swimming",19.0
+"Basketball, Volleyball",19.0
+"Cycling, Figure Skating",19.0
+"Alpine Skiing, Canoeing",19.0
+"Alpine Skiing, Cross Country Skiing",19.0
+"Hockey, Swimming",19.0
+"Athletics, Handball, Shooting",19.0
+"Curling, Ski Jumping",19.0
+"Handball, Sailing",19.0
+"Athletics, Ice Hockey, Table Tennis, Volleyball",19.0
+"Freestyle Skiing, Sailing",19.0
+"Equestrianism, Swimming",19.0
+"Swimming, Triathlon",19.0
+"Alpine Skiing, Swimming",18.33
+Rhythmic Gymnastics,18.24
+"Archery, Gymnastics",18.0
+"Luge, Swimming",18.0
+"Cycling, Diving",18.0
+"Cycling, Fencing",18.0
+"Badminton, Swimming",18.0
+"Baseball, Swimming",18.0
+"Figure Skating, Football",18.0
+"Basketball, Equestrianism, Modern Pentathlon",18.0
+"Figure Skating, Hockey, Speed Skating, Swimming",18.0
+"Basketball, Sailing",18.0
+"Basketball, Swimming",18.0
+"Bobsleigh, Swimming",18.0
+"Ice Hockey, Short Track Speed Skating",18.0
+"Diving, Fencing, Tennis",18.0
+"Handball, Water Polo",18.0
+"Cycling, Judo",18.0
+"Figure Skating, Short Track Speed Skating",17.0
+"Athletics, Cross Country Skiing, Cycling, Gymnastics",17.0
+"Basketball, Cross Country Skiing",17.0
+"Gymnastics, Triathlon",16.0
+"Curling, Swimming",16.0
+"Cycling, Short Track Speed Skating",16.0
+"Diving, Football",16.0
+"Diving, Gymnastics",16.0
+"Diving, Rowing",16.0
+"Fencing, Volleyball",16.0
+"Speed Skating, Weightlifting",15.0
+"Gymnastics, Rhythmic Gymnastics",15.0
+"Rhythmic Gymnastics, Swimming",15.0
+"Figure Skating, Freestyle Skiing",15.0
+"Diving, Volleyball",14.0
+"Hockey, Shooting, Short Track Speed Skating, Table Tennis",13.0
